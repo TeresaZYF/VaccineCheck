@@ -1,1 +1,2 @@
 # covidInfectionPredictor
+Group project
